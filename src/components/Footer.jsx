@@ -11,23 +11,23 @@ function Footer() {
                  <FaHome size={20} style={{color:'#fff',marginRight:'2rem'}}/>
                 
                 <div>
-                    <p>Nairobi,Kenya</p>
+                    <p>Australia</p>
                 </div>
               </div>
                     <div className='phone'>
                  <h4>
-                    <a href="tel:+254757625214">
+                    <a href="tel:+61493244980">
                     <FaPhone size={20} style={{ color: '#fff', marginRight: '2rem' }} />
-                    +254714144231
+                    +61493244980
                     </a>
                </h4>
                 </div>
 
                 <div className='email'>
                      <h4>
-                        <a href="mailto:enocksang8356@gmail.com">
+                        <a href="mailto:einsteinkibet0110@gmail.com">
                         <FaMailBulk size={20} style={{ color: '#fff', marginRight: '2rem' }} />
-                        enocksang8356@gmail.com
+                        einsteinkibet0110@gmail.com
                         </a>
                   </h4>
                 </div>
@@ -41,16 +41,16 @@ function Footer() {
             
                 <ul className='social'>
                     <li>
-                        <a href="https://linkedin.com/in/enock-sang-5969aa22b" target='_blank' rel="noreferrer" > <FaLinkedin size={30} style={{color:'#fff',marginRight:'1rem'}}/>  </a>
+                        <a href="https://www.linkedin.com/in/einstein-kibet-982534206" target='_blank' rel="noreferrer" > <FaLinkedin size={30} style={{color:'#fff',marginRight:'1rem'}}/>  </a>
                     </li>
                     <li>
-                        <a href="https://twitter.com/@nyachire" target='_blank' rel="noreferrer" > <FaTwitter size={30} style={{color:'#fff',marginRight:'1rem'}}/>  </a>
+                        <a href="https://twitter.com/stainlesshx" target='_blank' rel="noreferrer" > <FaTwitter size={30} style={{color:'#fff',marginRight:'1rem'}}/>  </a>
                     </li>
                     <li>
-                        <a href="https://instagram.com/enock_sang_nyachire" target='_blank' rel="noreferrer"> <FaInstagram size={30} style={{color:'#fff',marginRight:'1rem'}}/>  </a>
+                        <a href="https://instagram.com/sselnaits" target='_blank' rel="noreferrer"> <FaInstagram size={30} style={{color:'#fff',marginRight:'1rem'}}/>  </a>
                     </li>
                     <li>
-                        <a href="https://github.com/kipkirui63" target='_blank' rel="noreferrer"> <FaGithub size={30} style={{color:'#fff',marginRight:'1rem'}}/>  </a>
+                        <a href="https://github.com/einsteinkibet" target='_blank' rel="noreferrer"> <FaGithub size={30} style={{color:'#fff',marginRight:'1rem'}}/>  </a>
                     </li>
                 </ul>
         </div>
